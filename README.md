@@ -121,7 +121,7 @@ smart-outfit-recommender/
 
 ```bash
 # 1. Go into the folder
-cd smart-outfit-recommender
+cd Smart-Outfit-Recommender
 
 # 2. (Recommended) create a virtual environment
 python -m venv venv
